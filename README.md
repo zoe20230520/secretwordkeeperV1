@@ -4,7 +4,7 @@
 
 ## 应用预览
 
-![密码生成器界面](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=密码管理器应用界面，左侧蓝色侧边栏包含密码库、生成器、导入导出、备份、设置等选项，右侧主界面显示密码生成器功能，包含密码输入框、长度设置、字符选项等，界面简洁现代，蓝色主题&image_size=landscape_16_9)
+![密码生成器界面](./public/generator-screenshot.png)
 
 ## 功能特性
 
