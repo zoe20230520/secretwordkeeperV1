@@ -4,7 +4,7 @@
 
 ## 应用预览
 
-![密码生成器界面](./public/generator-screenshot.png)
+public/generator-screenshot.png
 
 ## 功能特性
 
