@@ -2,6 +2,10 @@
 
 一个功能强大的密码管理器和生成器应用，帮助您安全管理和生成密码。
 
+## 应用预览
+
+![密码生成器界面](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=密码管理器应用界面，左侧蓝色侧边栏包含密码库、生成器、导入导出、备份、设置等选项，右侧主界面显示密码生成器功能，包含密码输入框、长度设置、字符选项等，界面简洁现代，蓝色主题&image_size=landscape_16_9)
+
 ## 功能特性
 
 ### 核心功能
@@ -40,8 +44,8 @@
 
 1. **克隆项目**
    ```bash
-   git clone <repository-url>
-   cd password-manager-generator
+   git clone git@github.com:zoe20230520/secretwordkeeperV1.git
+   cd secretwordkeeperV1
    ```
 
 2. **安装依赖**
@@ -107,7 +111,7 @@
 ## 项目结构
 
 ```
-password-manager-generator/
+secretwordkeeperV1/
 ├── app/                  # Next.js 应用路由
 │   ├── page.tsx          # 主页面
 │   └── layout.tsx        # 应用布局
@@ -196,8 +200,8 @@ pnpm run build
 
 ## 联系方式
 
-- 项目链接：<repository-url>
-- 问题反馈：<repository-url>/issues
+- 项目链接：https://github.com/zoe20230520/secretwordkeeperV1
+- 问题反馈：https://github.com/zoe20230520/secretwordkeeperV1/issues
 
 ---
 
